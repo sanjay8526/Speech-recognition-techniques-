@@ -1,0 +1,4 @@
+voice-controlled-smart-home/
+├── README.md
+├── requirements.txt
+└── main.py
