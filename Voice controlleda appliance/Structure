@@ -1,0 +1,5 @@
+voice-controlled-appliances/
+│
+├── README.md
+├── requirements.txt
+└── main.py
